@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammed%20Sadath%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descSize=18&descAlignY=58" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Payments+%C2%B7+Fintech+%C2%B7+GenAI;5%2B+years+at+Flipkart+%26+Yubi;Building+resilient+systems+at+scale;MS+CS+%40+UALR+%7C+4.0+GPA" />
-
 <br><br>
 
 <a href="https://mohammedsadathkhan-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=safari&logoColor=white"></a>
