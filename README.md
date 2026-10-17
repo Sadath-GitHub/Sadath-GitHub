@@ -23,7 +23,6 @@
 ![sales](https://img.shields.io/badge/%241B-sales_handled-3b82f6?style=for-the-badge)
 ![revenue](https://img.shields.io/badge/%2B%2450K-revenue_per_month-a855f7?style=for-the-badge)
 ![push](https://img.shields.io/badge/500K%2B-pushes_per_month-f59e0b?style=for-the-badge)
-![cost](https://img.shields.io/badge/-25%25-infra_cost-ef4444?style=for-the-badge)
 
 </div>
 
