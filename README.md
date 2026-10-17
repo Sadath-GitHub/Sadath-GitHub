@@ -37,10 +37,6 @@
 
 ---
 
-<sub>Conceptual patterns, not proprietary code.</sub>
-
----
-
 ## 🚀 Projects
 
 <div align="center">
