@@ -89,8 +89,3 @@ flowchart LR
 🎓 Finishing my MS in CS at UALR (May 2027)
 🔭 Building GenAI tooling and distributed systems projects
 💼 Open to full-time SWE / Lead roles, backend and distributed systems
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="150">
-</p>
