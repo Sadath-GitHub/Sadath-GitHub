@@ -1,4 +1,7 @@
 <div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Payments+%C2%B7+Fintech+%C2%B7+GenAI;5%2B+years+at+Flipkart+%26+Yubi;Building+resilient+systems+at+scale;MS+CS+%40+UALR+%7C+4.0+GPA"/>
+
 
 <br><br>
 
