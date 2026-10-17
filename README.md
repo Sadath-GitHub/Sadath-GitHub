@@ -37,25 +37,6 @@
 
 ---
 
-## 🧠 How I design systems
-
-```mermaid
-flowchart LR
-    K[Kafka message] --> T[Temporal workflow]
-    T --> W[Worker builds output file]
-    W --> R{Per-row tasks}
-    R --> O[Output file]
-    T -. retries and durability .-> W
-```
-
-```mermaid
-flowchart LR
-    Q[Request] --> Z[Redis sorted set<br/>vendors ranked by live failure rate]
-    Z --> V[Best vendor]
-    V -->|success / failure| Z
-    Z -. durable state .-> P[(PostgreSQL)]
-```
-
 <sub>Conceptual patterns, not proprietary code.</sub>
 
 ---
